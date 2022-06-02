@@ -1,6 +1,7 @@
 # GLM_final-project
 SPECT is an instrument for functional and metabolic imaging in vivo with the help of a single photon nuclide labeled drug. With advances in radiation medicine, doctors can use certain features of SPECT images to determine whether a person’s heart is healthy or not. Based on those features, we try to separate abnormal patients from healthy patients. Dimension reduction and feature selection play essential roles in these mass-spectrometric data with high-dimensional features. Classification models, based on feature selection techniques, are applied to the SPECT heart dataset. Precision accuracy are considered finally to compare different methods, and ensemble method is used to improve the model.
-References
+
+## References
 
 [1] Kurgan, L.A., Cios, K.J., Tadeusiewicz, R., Ogiela, M. Goodenday, L.S. ”Knowledge Discovery
 Approach to Automated Cardiac SPECT Diagnosis” Artificial Intelligence in Medicine, vol. 23:2,
